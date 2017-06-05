@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/mata62-ufba/mata62-ufba.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+  * [Início](https://mata62-ufba.github.io/index.html)
+  * [Aulas](https://mata62-ufba.github.io/aulas.html)
+  * [Avaliações](https://mata62-ufba.github.io/avaliacoes.html)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
